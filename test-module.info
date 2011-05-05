@@ -1,5 +1,0 @@
-; $Id$
-name = Test Module
-description = Test git submodules in phpfog
-core = 6.x
-package = Girih
